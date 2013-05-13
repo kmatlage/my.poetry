@@ -9,8 +9,5 @@ drwxr-xr-x 3 kmatlage users  4096 2013-04-24 14:53 loads
 -r--r--r-- 1 kmatlage users  1132 2011-08-23 15:59 kevin_activitylog.txt
 -rwxrwxrwx 1 kmatlage users   213 2011-08-22 17:13 kevin_todo.txt
 drwxr-xr-x 2 kmatlage users  4096 2011-06-29 15:37 sic
-drwxr-xr-x 2 kmatlage users  4096 2011-06-29 15:37 ctures
-drwxr-xr-x 2 kmatlage users  4096 2011-06-29 15:37 blic
-drwxr-xr-x 2 kmatlage users  4096 2011-06-29 15:37 mplates
 drwxr-xr-x 2 kmatlage users  4096 2011-06-29 15:37 deos
 -rwxr-xr-x 1 kmatlage users    37 2011-07-08 12:08 whereisbuild.chksum
